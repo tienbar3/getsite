@@ -3,13 +3,14 @@
     {
       "id": 1,
       "title": "DOGE"
-  ],
-  "withdraw": [
+    },
     {
-      "name": "no",
+      "id": 2,
+      "title": "no"
+    },
+    {
+      "id": 3,
+      "title": "no"
     }
-  ],
-  "exit": {
-    "name": "no"
-  }
+  ]
 }
