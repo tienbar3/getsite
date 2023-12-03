@@ -1,17 +1,15 @@
 {
-  "gets": [
+  "posts": [
     {
       "id": 1,
       "title": "DOGE"
+  ],
+  "withdraw": [
+    {
+      "name": "no",
     }
   ],
-  "withdraw": 
-    {
+  "exit": {
     "name": "no"
-    }
-  ],
-  "exit": 
-    {
-    "name": "no"
-    }
+  }
 }
