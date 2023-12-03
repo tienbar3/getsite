@@ -5,11 +5,13 @@
       "title": "DOGE"
     }
   ],
-  "withdraw": {
+  "withdraw": 
+    {
     "name": "no"
-   }
+    }
   ],
-  "exit": {
+  "exit": 
+    {
     "name": "no"
-  }
+    }
 }
